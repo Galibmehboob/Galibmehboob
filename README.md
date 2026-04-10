@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+
 
 <table align="center">
   <tr>
@@ -28,7 +28,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" align="center" width="120" />
 
 </p>
 
