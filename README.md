@@ -24,7 +24,7 @@
 
 📫 <b>Email</b> — <a href="mailto:galibmehboob@gmail.com">galibmehboob@gmail.com</a> <br/><br/>
 
-⚡ <b>Fun Fact</b> — I love to innovate 🚀  
+⚡ <b>Fun Fact</b> — Love to innovate 🚀  
 
 <br/>
 
