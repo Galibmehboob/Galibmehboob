@@ -26,7 +26,7 @@
 
 ## 🌐 Connect with me
 
-<p align="center">
+<p align="center" background='white'>
 <a href="https://www.linkedin.com/in/galib-mehboob/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" bg-white height="40"/>
 </a>
