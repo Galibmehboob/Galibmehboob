@@ -26,17 +26,22 @@
 
 ## 🌐 Connect with me
 
-<p align="center" background='white'>
+<p align="center">
+
 <a href="https://www.linkedin.com/in/galib-mehboob/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" bg-white height="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin" />
 </a>
+
 <a href="https://www.facebook.com/heygalib.4u/" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook"  bg-white height="40"/>
+<img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook" />
 </a>
+
 <a href="https://www.instagram.com/heygalib/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram"  bg-white height="40"/>
+<img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram" />
 </a>
+
 </p>
+
 
 ---
 
