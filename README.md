@@ -42,7 +42,8 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="center" <p align="center">
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3" />
@@ -52,53 +53,6 @@
 <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb" />
 <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js" />
-
-</p>
->
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"  background='white' height="45"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"  bg-white height="45"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" background='white' width="45" height="45"/>
-</a>
-
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45"  background='white' height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  background='white' width="45" height="45"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  background='white' width="45" height="45"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" background='white' height="45"/>
-</a>
-
-<a href="https://www.photoshop.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" background='white' width="45" height="45"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" background='white' width="45" height="45"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" background='white' width="45" height="45"/>
-</a>
 
 </p>
 
