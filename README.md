@@ -10,17 +10,31 @@
 
 ## 🚀 About Me
 
-<p >
-🔭 I’m currently working on  
-<a href="https://vocal-phoenix-a79cb5.netlify.app" target="_blank"><b>English Window</b></a> <br/><br/>
+<table align="center">
+  <tr>
+    <td style="background-color:#0d1117; padding:20px; border-radius:15px;">
 
-🌱 I’m currently learning <b>Next.js</b> <br/><br/>
+<p align="center">
 
-📫 How to reach me <b>[galibmehboob@gmail.com](mailto:galibmehboob@gmail.com)</b> <br/><br/>
+## 🚀 About Me 🐱
 
-⚡ Fun fact: <b>I Love to Innovate</b>
+🔭 <b>Working on</b> — <a href="https://vocal-phoenix-a79cb5.netlify.app">English Window</a> <br/><br/>
+
+🌱 <b>Learning</b> — Next.js <br/><br/>
+
+📫 <b>Email</b> — <a href="mailto:galibmehboob@gmail.com">galibmehboob@gmail.com</a> <br/><br/>
+
+⚡ <b>Fun Fact</b> — I love to innovate 🚀  
+
+<br/>
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
