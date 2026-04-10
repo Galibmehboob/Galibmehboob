@@ -3,7 +3,7 @@
 <h3 align="center">💻 A passionate frontend developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/your-banner-link.png" alt="banner" width="100%" />
+  <img src="https://x.com/HeyGalib/header_photo" alt="banner" width="100%" />
 </p>
 
 ---
