@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Galib Mehboob</h1>
+<h1 align="center">Hey 👋, I'm Galib Mehboob</h1>
 
 <h3 align="center">💻 A passionate frontend developer from Bangladesh</h3>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<p align="center">
+<p >
 🔭 I’m currently working on  
 <a href="https://vocal-phoenix-a79cb5.netlify.app" target="_blank"><b>English Window</b></a> <br/><br/>
 
@@ -18,7 +18,7 @@
 
 📫 How to reach me <b>[galibmehboob@gmail.com](mailto:galibmehboob@gmail.com)</b> <br/><br/>
 
-⚡ Fun fact: <b>I Love to learn new things</b>
+⚡ Fun fact: <b>I Love to Innovate</b>
 
 </p>
 
@@ -28,13 +28,13 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/galib-mehboob/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" bg-white height="40"/>
 </a>
 <a href="https://www.facebook.com/heygalib.4u/" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+<img src="https://skillicons.dev/icons?i=facebook"  bg-white height="40"/>
 </a>
 <a href="https://www.instagram.com/heygalib/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+<img src="https://skillicons.dev/icons?i=instagram"  bg-white height="40"/>
 </a>
 </p>
 
@@ -45,27 +45,27 @@
 <p align="center">
 
 <a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"  bg-white height="45"/>
 </a>
 
 <a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"  bg-white height="45"/>
 </a>
 
 <a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  bg-white width="45" height="45"/>
 </a>
 
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45"  bg-white height="45"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  bg-white width="45" height="45"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  bg-white width="45" height="45"/>
 </a>
 
 <a href="https://nextjs.org/" target="_blank">
