@@ -69,14 +69,14 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-sky?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss" />
-<img src="https://img.shields.io/badge/Node.js-yellowgreen?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-%233C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
 </p>
 
