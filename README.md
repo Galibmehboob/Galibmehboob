@@ -76,7 +76,7 @@
 <img src="https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss" />
 <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
 
 </p>
 
