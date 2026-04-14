@@ -56,7 +56,7 @@
 </a>
 
 <a href="https://www.instagram.com/heygalib/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram" />
 </a>
 
 </p>
