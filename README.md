@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Galib Mehboob</h1>
+<h1 align="center">/⁠ᐠ⁠｡⁠ꞈ⁠｡⁠ᐟ⁠\​ฅ ᴴᵉʸ! 👋, I'm Galib Mehboob</h1>
 
 <h3 align="center">💻 A passionate frontend developer from Bangladesh</h3>
 
