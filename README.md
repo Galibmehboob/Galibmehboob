@@ -48,7 +48,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/galib-mehboob/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-sky-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://www.facebook.com/heygalib.4u/" target="_blank">
